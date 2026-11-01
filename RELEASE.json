@@ -1,0 +1,16 @@
+{
+  "release": "jury-day-rebuild",
+  "prepared": "2026-10-31",
+  "source_repository": "https://github.com/atharvsood576/smartconnect5",
+  "production_url": null,
+  "deployment_status": "awaiting_vercel_deployment",
+  "production_auth_redirects_configured": false,
+  "checkout_enabled": false,
+  "owner_access_assigned": true,
+  "owner_access_verified": true,
+  "tests_passed": 23,
+  "build_passed": true,
+  "google_provider_enabled": true,
+  "google_browser_check": "account_chooser_reached_full_signin_not_tested",
+  "auth_flow": "PKCE"
+}
